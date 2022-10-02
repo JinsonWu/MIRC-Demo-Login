@@ -1,1 +1,1 @@
-web: gunicorn django-login.wsgi
+web: gunicorn mirc-demo-login.wsgi
