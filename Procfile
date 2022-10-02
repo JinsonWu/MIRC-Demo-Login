@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT
+web: gunicorn mirc-demo-login.wsgi
