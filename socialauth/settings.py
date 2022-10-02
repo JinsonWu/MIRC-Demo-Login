@@ -142,6 +142,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# homepage redirect url
 #LOGIN_REDIRECT_URL = '/accounts/login'
 
 import django_on_heroku

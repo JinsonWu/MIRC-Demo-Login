@@ -1,4 +1,4 @@
-#!/Users/jinsonwu/Desktop/django-login/venv/bin/python
+#!/Users/jinsonwu/Desktop/mirc-demo-login/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
